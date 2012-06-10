@@ -1,5 +1,7 @@
 Mezzanine Themes
 ===
+(this is cloned for our local development purposes.  Please feel free to comment follow / contribute, but this doc is not being updated at this time.)
+
 A collection of Django/Mezzanine templates. Each of them are designed to override Mezzanine's default template.
 
 mezzanine_default and mezzanine_mobile are compilation of all the templates from Mezzanine. This will be easier for non-Python and non-Django designers to work with the templates.
